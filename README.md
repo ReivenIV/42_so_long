@@ -3,7 +3,7 @@
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/ReivenIV/so_long?color=lightblue" />
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ReivenIV/so_long?color=green" />
 
-
+```txt
                                   _._
                                .-~ | ~-.
                                |   |   |
@@ -22,6 +22,7 @@
  |      |   | |      |   | |       |  |   |     |  |  |   |   |      |
  |      |   | |      |   | |       |  |   |     |  |  |   |   |      |
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
 
 Welcome to the 42 So_Long project! This project is part of the curriculum at 42 and focuses on creating a 2D game using the MinilibX, a simple graphic library provided by 42. So_Long is a game where the player navigates through a map, collects items, and avoids obstacles to reach the goal.
 
